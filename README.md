@@ -10,7 +10,7 @@
 
 -I didn't use CSS purposely-
 
-## "We all start off small, time and constancy make it worth.
+## "We all start off small, time and constancy make it worth."
 
 
 
